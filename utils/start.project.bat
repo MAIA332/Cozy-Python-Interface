@@ -1,0 +1,1 @@
+env.start.bat && pip install -r requirements.txt
